@@ -1,0 +1,17 @@
+C:\Users\natha\source\repos\Traffic light\bin\Debug\net10.0-windows\Traffic light.exe
+C:\Users\natha\source\repos\Traffic light\bin\Debug\net10.0-windows\Traffic light.deps.json
+C:\Users\natha\source\repos\Traffic light\bin\Debug\net10.0-windows\Traffic light.runtimeconfig.json
+C:\Users\natha\source\repos\Traffic light\bin\Debug\net10.0-windows\Traffic light.dll
+C:\Users\natha\source\repos\Traffic light\bin\Debug\net10.0-windows\Traffic light.pdb
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic_light.Form1.resources
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic_light.Resources.resources
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.vbproj.GenerateResource.cache
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.AssemblyInfoInputs.cache
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.AssemblyInfo.vb
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.vbproj.CoreCompileInputs.cache
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.dll
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\refint\Traffic light.dll
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.pdb
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\Traffic light.genruntimeconfig.cache
+C:\Users\natha\source\repos\Traffic light\obj\Debug\net10.0-windows\ref\Traffic light.dll
