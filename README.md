@@ -1,4 +1,4 @@
-Smart Intersection Traffic Light Simulation System
+Multiple Traffic Light Simulation System
 
 Project Description
 This project is a Smart Intersection Traffic Light Simulation System developed using VB.NET and Windows Forms in Visual Studio. It demonstrates event-driven programming by simulating traffic signal operations, pedestrian crossing requests, and emergency vehicle priority control.
